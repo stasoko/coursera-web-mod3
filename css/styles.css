@@ -23,7 +23,6 @@ body
 
 #nav-list a
 {
-	text-align: center;
 	color: #fff;
 }
 
@@ -46,8 +45,6 @@ body
 {
 	background-color: #88cc66;
 	padding: 20px;
-/*	margin-left: 30px;
-	margin-right: 30px;*/
 }
 
 .item-title
